@@ -31,10 +31,14 @@ We prioritize a clean, tracking-free experience:
 ## 5. Children’s Privacy
 Our Application is safe for all age groups. We do not knowingly collect or solicit any information from anyone, including children under the age of 13.
 
-## 6. Changes to This Policy
+## 6. Attribution
+Some icons used in this application are provided by **Flaticon**.
+Icons made by their respective authors from https://www.flaticon.com/
+
+## 7. Changes to This Policy
 We may update this Privacy Policy periodically. We will notify you of any changes by updating the "Last Updated" date at the top of this page.
 
-## 7. Contact Us
+## 8. Contact Us
 For any questions regarding this Privacy Policy or the Application’s practices, please contact us at:
 
 **Email:** axnovaxxdevcenter@gmail.com
