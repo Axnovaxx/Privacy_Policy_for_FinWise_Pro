@@ -1,44 +1,51 @@
 # Privacy Policy for FinWise Pro
 
-**Last Updated: February 2, 2026**
+Last Updated: February 2, 2026
 
-At **FinWise Pro**, we are committed to maintaining the highest standards of user privacy. This Privacy Policy describes how our mobile application handles data to ensure a secure and private experience.
+At FinWise Pro, we are committed to maintaining the highest standards of user privacy. This Privacy Policy describes how our mobile application handles data to ensure a secure and private experience.
 
-## 1. Data Collection and Usage
-**FinWise Pro** is designed to function without collecting any user data.
+1. Data Collection and Usage
+FinWise Pro is designed to function without collecting any user data.
 
-* **No Personal Information:** We do not require or collect personal details such as names, email addresses, or phone numbers.
-* **No Financial Data Transmission:** All financial inputs, calculations, and loan quotes are processed exclusively on your device. We do not transmit or store your financial information on any external servers.
+- No Personal Information: We do not require or collect personal details such as names, email addresses, or phone numbers.
+- No Financial Data Transmission: All financial inputs, calculations, and loan quotes are processed exclusively on your device. We do not transmit or store your financial information on any external servers.
 
-## 2. Local Data Storage
-To provide features like history tracking and saved quotes, the Application uses a local **Room Database**.
+2. Local Data Storage
+To provide features like history tracking and saved quotes, the Application uses a local Room Database.
 
-* **Storage Location:** All data is stored within the Application's private storage directory on your mobile device.
-* **User Control:** You have full control over this data. You can delete all saved records at any time by clearing the app data in your device settings or by uninstalling the application.
+- Storage Location: All data is stored within the Application's private storage directory on your mobile device.
+- User Control: You have full control over this data. You can delete all saved records at any time by clearing the app data in your device settings or by uninstalling the application.
 
-## 3. Permissions
+3. Permissions
 The Application requests minimal permissions to function:
 
-* **Storage Permission:** This is requested only when you use the "Export to PDF" feature. This allows the app to save the generated report to your device's storage.
-* **Network Access:** While the core features are designed for offline use, basic network access might be used only for system-level updates or responding to user-initiated support requests.
+- Storage Permission: This is requested only when you use the "Export to PDF" feature. This allows the app to save the generated report to your device's storage.
+- Network Access: While the core features are designed for offline use, basic network access might be used only for system-level updates or responding to user-initiated support requests.
 
-## 4. Third-Party Services
+4. In-App Purchases
+FinWise Pro offers optional in-app purchases to support the developer.
+
+- All purchases are processed securely through Google Play Billing.
+- We do not collect or store any payment information such as credit/debit card details.
+- Purchase transactions are handled entirely by Google Play and are subject to Google’s Privacy Policy.
+
+5. Third-Party Services
 We prioritize a clean, tracking-free experience:
 
-* **No Analytics:** We do not use third-party tools like Google Analytics or Firebase to track user behavior.
-* **No Advertising:** This application does not include advertising SDKs that collect data for profiling or targeting.
+- No Analytics: We do not use third-party tools like Google Analytics or Firebase to track user behavior.
+- No Advertising: This application does not include advertising SDKs that collect data for profiling or targeting.
 
-## 5. Children’s Privacy
+6. Children’s Privacy
 Our Application is safe for all age groups. We do not knowingly collect or solicit any information from anyone, including children under the age of 13.
 
-## 6. Attribution
-Some icons used in this application are provided by **Flaticon**.
+7. Attribution
+Some icons used in this application are provided by Flaticon.
 Icons made by their respective authors from https://www.flaticon.com/
 
-## 7. Changes to This Policy
+8. Changes to This Policy
 We may update this Privacy Policy periodically. We will notify you of any changes by updating the "Last Updated" date at the top of this page.
 
-## 8. Contact Us
+9. Contact Us
 For any questions regarding this Privacy Policy or the Application’s practices, please contact us at:
 
-**Email:** axnovaxxdevcenter@gmail.com
+Email: axnovaxxdevcenter@gmail.com
